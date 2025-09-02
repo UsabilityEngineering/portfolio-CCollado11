@@ -1,10 +1,10 @@
-# UX Portfolio
+# Cris' UX Portfolio
 
 About me...
 
 ## UX Team Project
 
-Coming soon.
+I'm Cris Collado my major is computer science. This is my first year at Chico State and in the future I hope to have a career in cybersecurity.
 
 ## UX Journal
 
