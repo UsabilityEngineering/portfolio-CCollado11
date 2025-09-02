@@ -3,7 +3,7 @@
 About me...
 
 ## UX Team Project
-
+![Cris Collado Photo](Collado.jpg)
 I'm Cris Collado my major is computer science. This is my first year at Chico State and in the future I hope to have a career in cybersecurity.
 
 ## UX Journal
